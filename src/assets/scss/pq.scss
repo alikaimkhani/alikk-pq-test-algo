@@ -255,6 +255,8 @@ use pq-visible-on-hover__child on the child element
   --pq-drag-slot-border-color: rgba(204, 204, 204, 0.7);
 
   // [START] - Dark - react-select theme override
+  --react-select-neutral0: #0f2642;
+
   --react-select-primary75: rgba(36, 105, 92, 0.3);
   --react-select-primary50: var(--pq-primary-light-20);
   --react-select-primary25: var(--pq-primary-light-10);
